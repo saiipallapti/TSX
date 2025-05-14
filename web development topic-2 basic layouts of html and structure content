@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Structured Page</title>
+    <style>
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+        }
+        nav ul {
+            list-style-type: none;
+        }
+        nav li {
+            display: inline-block;
+            margin-right: 15px;
+            color: white;
+        }
+        main {
+            margin: 20px;
+            padding: 10px;
+            background-color: #f4f4f4;
+        }
+        article {
+            padding: 10px;
+            background-color: #ddd;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>My Website</h1>
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <article>
+        <h2>Welcome Article</h2>
+        <p>This is some paragraph text inside the article.</p>
+    </article>
+</main>
+
+</body>
+</html>
