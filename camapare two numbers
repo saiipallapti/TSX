@@ -1,0 +1,8 @@
+a = int(input("eneter first number:"))
+b = int(input("eneter second number:"))
+  if a > b:
+print("First number is greater.")
+elif a < b:
+print("second number is greater.")
+else:
+print("both number are equal.")
