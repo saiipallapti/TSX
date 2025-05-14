@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome to My  unstop web development interb solutions Page</h1>
+    <p>This is a paragraph styled with CSS.</p>
+    <button onclick="sayHello()">Click Me</button>
+
+    <script>
+        function sayHello() {
+            console.log("Hello from JavaScript!");
+        }
+    </script>
+</body>
+</html>
