@@ -1,0 +1,4 @@
+a = 10
+b = 3
+print("Addition:", a + b)
+print("Logical AND:", a > 5 and b < 5)
